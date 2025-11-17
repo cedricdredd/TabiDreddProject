@@ -1,3 +1,7 @@
 Cedric Dredd - Data Acquisition, Preprocessing Support & EDA Interpretation
 
 In this milestone, I handled the initial retrieval of all FRED datasets and assisted with validating the data, frequency mismatches, and structural integrity. I contributed to the preprocessing steps by verifying alignment across the different datasets, checking monthly transformations, and confirming the correctness of forward looking return calculations. I also led the numerical exploratory analysis, including evaluating summary statistics, interpreting correlation matrices, and reviewing patterns in rate changes across different interest-rate regimes. For the upcoming phases, I will oversee all visualization work and take responsibility for assembling the final version of the report and presentation ready graphics.
+
+Tabi George - Led Data Integration & Modeling Preparation
+
+For this milestone, I changed the data we were using from Kaggle datasets to FRED sources and ensured all licensing requirements were met. I cleaned and standardized both the federal funds rate and S&P 500 datasets, aligned them to monthly frequency, made the integrated analytical panel, and computed all summary statistics, returns, volatility measures, and correlation analyses. Additionally, I updated the project timeline and made sure to incorporate any revisions from the previous checkpoint. My work in this milestone establishes the analytical foundation on which the modeling phase will be built.
